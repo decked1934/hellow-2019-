@@ -2,3 +2,4 @@
 New file called license.txt
 Git track changes.
 Git not track files but changes!
+stage is very improtent
