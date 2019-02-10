@@ -1,2 +1,4 @@
 2019.02.10 15:28
-New file called license
+New file called license.txt
+Git track changes.
+Git not track files but changes!
